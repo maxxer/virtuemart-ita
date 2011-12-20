@@ -1,1 +1,10 @@
 Lingua italiana per VirtueMart
+
+http://forum.virtuemart.net/index.php?topic=89336.0
+The latest version of the VM2 backend language files is here:
+https://dev.virtuemart.net/svn/virtuemart/trunk/virtuemart/administrator/language/
+The latest version of the VM2 frontend language files is here:
+https://dev.virtuemart.net/svn/virtuemart/trunk/virtuemart/language/
+
+HOWTO:
+http://dev.virtuemart.net/projects/virtuemart/wiki/Writing_translation
